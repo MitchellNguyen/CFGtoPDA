@@ -1,0 +1,2 @@
+S->aSb|ST|Tb
+T->bTa|a|3
